@@ -1,0 +1,15 @@
+{
+  "versie": 1,
+  "items": [
+    {
+      "afbeelding": "https://raw.githubusercontent.com/Bloempje1969/focuswoordenschat/main/woorden/toilet.jpeg",
+      "audio": "https://raw.githubusercontent.com/Bloempje1969/focuswoordenschat/main/woorden/toilet.webm",
+      "naam": "toilet"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/Bloempje1969/focuswoordenschat/main/woorden/speelplaats.webp",
+      "audio": "https://raw.githubusercontent.com/Bloempje1969/focuswoordenschat/main/woorden/speelplaats.webm",
+      "naam": "speelplaats"
+    }
+  ]
+}
