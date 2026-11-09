@@ -1,0 +1,65 @@
+{
+  "versie": 1,
+  "items": [
+    {
+      "afbeelding": "https://raw.githubusercontent.com/Bloempje1969/focuswoordenschat/main/woorden/De tak.png",
+      "audio": "https://raw.githubusercontent.com/Bloempje1969/focuswoordenschat/main/woorden/De tak.webm",
+      "naam": "De tak"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/Bloempje1969/focuswoordenschat/main/woorden/De eikel.png",
+      "audio": "https://raw.githubusercontent.com/Bloempje1969/focuswoordenschat/main/woorden/De eikel.webm",
+      "naam": "De eikel"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/Bloempje1969/focuswoordenschat/main/woorden/De stam.png",
+      "audio": "https://raw.githubusercontent.com/Bloempje1969/focuswoordenschat/main/woorden/De stam.webm",
+      "naam": "De stam"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/Bloempje1969/focuswoordenschat/main/woorden/Het blad.png",
+      "audio": "https://raw.githubusercontent.com/Bloempje1969/focuswoordenschat/main/woorden/Het blad.webm",
+      "naam": "Het blad"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/Bloempje1969/focuswoordenschat/main/woorden/De kastanje.png",
+      "audio": "https://raw.githubusercontent.com/Bloempje1969/focuswoordenschat/main/woorden/De kastanje.webm",
+      "naam": "De kastanje"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/Bloempje1969/focuswoordenschat/main/woorden/De boom.png",
+      "audio": "https://raw.githubusercontent.com/Bloempje1969/focuswoordenschat/main/woorden/De boom.webm",
+      "naam": "De boom"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/Bloempje1969/focuswoordenschat/main/woorden/Het bos.png",
+      "audio": "https://raw.githubusercontent.com/Bloempje1969/focuswoordenschat/main/woorden/Het bos.webm",
+      "naam": "Het bos"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/Bloempje1969/focuswoordenschat/main/woorden/Het beukennootje.png",
+      "audio": "https://raw.githubusercontent.com/Bloempje1969/focuswoordenschat/main/woorden/Het beukennootje.webm",
+      "naam": "Het beukennootje"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/Bloempje1969/focuswoordenschat/main/woorden/De walnoot.png",
+      "audio": "https://raw.githubusercontent.com/Bloempje1969/focuswoordenschat/main/woorden/De walnoot.webm",
+      "naam": "De walnoot"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/Bloempje1969/focuswoordenschat/main/woorden/De bolster.png",
+      "audio": "https://raw.githubusercontent.com/Bloempje1969/focuswoordenschat/main/woorden/De bolster.webm",
+      "naam": "De bolster"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/Bloempje1969/focuswoordenschat/main/woorden/De eekhoorn.png",
+      "audio": "https://raw.githubusercontent.com/Bloempje1969/focuswoordenschat/main/woorden/De eekhoorn.webm",
+      "naam": "De eekhoorn"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/Bloempje1969/focuswoordenschat/main/woorden/De paddenstoel.png",
+      "audio": "https://raw.githubusercontent.com/Bloempje1969/focuswoordenschat/main/woorden/De paddenstoel.webm",
+      "naam": "De paddenstoel"
+    }
+  ]
+}
