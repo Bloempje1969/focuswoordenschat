@@ -1,0 +1,35 @@
+{
+  "versie": 1,
+  "items": [
+    {
+      "afbeelding": "https://raw.githubusercontent.com/Bloempje1969/focuswoordenschat/main/woorden/Voor.png",
+      "audio": "https://raw.githubusercontent.com/Bloempje1969/focuswoordenschat/main/woorden/Voor.webm",
+      "naam": "Voor"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/Bloempje1969/focuswoordenschat/main/woorden/Achter.png",
+      "audio": "https://raw.githubusercontent.com/Bloempje1969/focuswoordenschat/main/woorden/Achter.webm",
+      "naam": "Achter"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/Bloempje1969/focuswoordenschat/main/woorden/Naast.png",
+      "audio": "https://raw.githubusercontent.com/Bloempje1969/focuswoordenschat/main/woorden/Naast.webm",
+      "naam": "Naast"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/Bloempje1969/focuswoordenschat/main/woorden/Tussen.png",
+      "audio": "https://raw.githubusercontent.com/Bloempje1969/focuswoordenschat/main/woorden/Tussen.webm",
+      "naam": "Tussen"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/Bloempje1969/focuswoordenschat/main/woorden/Op.png",
+      "audio": "https://raw.githubusercontent.com/Bloempje1969/focuswoordenschat/main/woorden/Op.webm",
+      "naam": "Op"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/Bloempje1969/focuswoordenschat/main/woorden/Onder.png",
+      "audio": "https://raw.githubusercontent.com/Bloempje1969/focuswoordenschat/main/woorden/Onder.webm",
+      "naam": "Onder"
+    }
+  ]
+}
